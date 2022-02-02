@@ -1,4 +1,7 @@
 node_modules/
-IGNORE_Z
-IGNORE_.env
-IGNORE_artifacts.
+# Ignore all flies starting with the letter z
+* z
+# Ignores a file called .env.
+* .env
+# Ignores a top-level directory named artifacts.
+* artifacts 
