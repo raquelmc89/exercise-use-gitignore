@@ -1,4 +1,4 @@
 git config --global core.excludesFile ~/.gitignore
-# Ignore all flies starting with the letter /z/
-# Ignores a file called /.env/
-# Ignores a top-level directory named /artifacts/
+# Ignore all flies starting with the letter "z"
+# Ignores a file called ".env"
+# Ignores a top-level directory named "artifacts"
